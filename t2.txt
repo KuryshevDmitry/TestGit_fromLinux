@@ -1,0 +1,17 @@
+│       │   ├── FolderMy
+│   │   ├── cwd -> /home/dima/Рабочий стол/FolderMy
+│   │   │       ├── cwd -> /home/dima/Рабочий стол/FolderMy
+│   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │   │   │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   │       │   ├── 29 -> /home/dima/Рабочий стол/FolderMy
+│   │   ├── cwd -> /home/dima/Рабочий стол/FolderMy
+│   │   │   ├── 1 -> /home/dima/Рабочий стол/FolderMy/t3.txt
+│   │   │       ├── cwd -> /home/dima/Рабочий стол/FolderMy
+│   │   │       │   ├── 1 -> /home/dima/Рабочий стол/FolderMy/t3.txt
