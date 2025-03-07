@@ -15,3 +15,6 @@
 │   │   │   ├── 1 -> /home/dima/Рабочий стол/FolderMy/t3.txt
 │   │   │       ├── cwd -> /home/dima/Рабочий стол/FolderMy
 │   │   │       │   ├── 1 -> /home/dima/Рабочий стол/FolderMy/t3.txt
+add text1 in t2.txt
+add text2 in t2.txt
+
